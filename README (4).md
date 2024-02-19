@@ -5,13 +5,6 @@
 https://drive.google.com/drive/folders/1YyQ4XqaW2rp7LCA5BAG9yH4CMuFsiiKP
 ```
 
-Go to the project directory
-
-```bash
-   cd 'content'/'NLP1'
-   ```
-
-
    Install dependencies
 
    ```bash
