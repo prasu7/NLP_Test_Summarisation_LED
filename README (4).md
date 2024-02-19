@@ -2,8 +2,7 @@
  Created a specialized annotated dataset for supervised learning and used the annotated dataset for fine-tuning the BERT model, focusing on a https://drive.google.com/drive/folders/1oYseRJonaelsXiISiA2Nws3DDHMlcuss?usp=drive_linkregression task by performing extractive text summarization of financial data.
 
 ##link
-```bash
-https://drive.google.com/drive/folders/1oYseRJonaelsXiISiA2Nws3DDHMlcuss?usp=drive_link
+https://drive.google.com/drive/folders/1YyQ4XqaW2rp7LCA5BAG9yH4CMuFsiiKP
 ```
 
 Go to the project directory
